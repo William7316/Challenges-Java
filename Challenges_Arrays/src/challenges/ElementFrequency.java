@@ -29,6 +29,7 @@ public class ElementFrequency {
 		
 		System.out.println("Element frequencies: " + frequencyMap);
 	
+		scan.close();
 	}
 	
 }
